@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/anki-deck-screener/static/css/main.b519891c.chunk.css",
-    "main.js": "/anki-deck-screener/static/js/main.e46ba024.chunk.js",
-    "main.js.map": "/anki-deck-screener/static/js/main.e46ba024.chunk.js.map",
+    "main.js": "/anki-deck-screener/static/js/main.acc99fee.chunk.js",
+    "main.js.map": "/anki-deck-screener/static/js/main.acc99fee.chunk.js.map",
     "runtime-main.js": "/anki-deck-screener/static/js/runtime-main.f42daea2.js",
     "runtime-main.js.map": "/anki-deck-screener/static/js/runtime-main.f42daea2.js.map",
     "static/js/2.eda5ecb5.chunk.js": "/anki-deck-screener/static/js/2.eda5ecb5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f42daea2.js",
     "static/js/2.eda5ecb5.chunk.js",
     "static/css/main.b519891c.chunk.css",
-    "static/js/main.e46ba024.chunk.js"
+    "static/js/main.acc99fee.chunk.js"
   ]
 }
