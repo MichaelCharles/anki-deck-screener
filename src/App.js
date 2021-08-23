@@ -18,9 +18,9 @@ function App() {
         </header>
         <main>
           <Switch>
-            <Route exact path='/' component={Home} />
-            <Route path='/screener/:deckName' component={Screener} />
-            <Route path='/about' component={About} />
+            <Route exact path='/anki-deck-screener' component={Home} />
+            <Route path='/anki-deck-screener/screener/:deckName' component={Screener} />
+            <Route path='/anki-deck-screener/about' component={About} />
           </Switch>
         </main>
       </div>
